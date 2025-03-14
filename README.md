@@ -17,7 +17,6 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 - **Visualizations** (Tableau Public):
   - **Bar Chart**: Top movies by Popularity Score (rating count x average rating).
   - **Line Chart**: Genre trends (rating count) over years, filtered to top 5 genres.
-  - **Pie Chart**: Distribution of ratings (1-5).
   - **Heatmap**: Average ratings by genre and age.
   - **Table**: Top-5 movie recommendations per title.
 - **Machine Learning**: Collaborative filtering with cosine similarity for recommendations.
