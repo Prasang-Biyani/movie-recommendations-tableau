@@ -57,10 +57,12 @@ Explore the interactive dashboard: [![Tableau](https://img.shields.io/badge/-Tab
 
 A portfolio project showcasing data preprocessing, advanced visualization, and ML integration for actionable insights.
 
-## Contact
 
 ## Contact
 
 - **Email**: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:biyaniprasang@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasangbiyani/)
 - **Medium**: [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@biyaniprasang)
+
+## Create GitHub Pages from Tableau
+- **Source**: (https://github.com/dinkwiz/tableau_embed)

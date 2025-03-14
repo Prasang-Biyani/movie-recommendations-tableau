@@ -8,8 +8,8 @@ const url = "https://public.tableau.com/views/movies_recommendation/Dashboard1?:
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 1000,
-    width: 1200,
+    height: '100%',
+    width: '100%',
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();
