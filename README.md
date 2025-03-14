@@ -15,7 +15,7 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 
 - **Data Preprocessing**: Merged `ratings`, `movies`, and `users` into `movies_data.csv` and expanded genres into `movielens_merged_expanded.csv` using Python (Pandas).
 - **Visualizations** (Tableau Public):
-  - **Bar Chart**: Top movies by Popularity Score (rating count × average rating).
+  - **Bar Chart**: Top movies by Popularity Score (rating count x average rating).
   - **Line Chart**: Genre trends (rating count) over years, filtered to top 5 genres.
   - **Pie Chart**: Distribution of ratings (1-5).
   - **Heatmap**: Average ratings by genre and age.
@@ -23,11 +23,11 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 - **Machine Learning**: Collaborative filtering with cosine similarity for recommendations.
 - **Interactivity**: Filters for gender, age, genres, and movie selection.
 
-## Tech Stack
+## Tech Stack 
 
-- **Python**: Pandas, scikit-learn (cosine similarity).
-- **Tableau Public**: Visualization and dashboarding.
-- **Dataset**: MovieLens 1M (1M+ ratings, ~6K users, ~4K movies).
+- ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) **Python**: Pandas, scikit-learn (cosine similarity).
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) **Tableau Public**: Visualization and dashboarding.
+- ![Dataset](https://img.shields.io/badge/-Dataset-FF6F00?style=flat&logo=database&logoColor=white) **Dataset**: MovieLens 1M (1M+ ratings, ~6K users, ~4K movies).
 
 ## Repository Contents
 
@@ -45,7 +45,9 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 
 ## Live Demo
 
-Explore the interactive dashboard: [[Dashboard](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes)].
+## Live Demo
+
+Explore the interactive dashboard: [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes).
 
 ## Key Insights
 
