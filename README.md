@@ -13,7 +13,7 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 
 ## Features
 
-- **Data Preprocessing**: Merged `ratings`, `movies`, and `users` into `movielens_merged.csv` and expanded genres into `movielens_merged_expanded.csv` using Python (Pandas).
+- **Data Preprocessing**: Merged `ratings`, `movies`, and `users` into `movies_data.csv` and expanded genres into `movielens_merged_expanded.csv` using Python (Pandas).
 - **Visualizations** (Tableau Public):
   - **Bar Chart**: Top movies by Popularity Score (rating count × average rating).
   - **Line Chart**: Genre trends (rating count) over years, filtered to top 5 genres.
@@ -39,13 +39,13 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 ## Setup Instructions
 
 1. **Download MovieLens 1M**: Get raw `.dat` files from [MovieLens](https://grouplens.org/datasets/movielens/1m/).
-2. **Run Preprocessing**: Execute `preprocess.py` (requires Python, Pandas) to generate `movielens_merged.csv` and `movielens_merged_expanded.csv`.
+2. **Run Preprocessing**: Execute `preprocess.py` (requires Python, Pandas) to generate `movies_data.csv` and `movielens_merged_expanded.csv`.
 3. **Generate Recommendations**: Run `recommendations.py` to create `recommendations.csv`.
 4. **Open in Tableau**: Load the `.twbx` file in Tableau Public, or rebuild using the CSVs.
 
 ## Live Demo
 
-Explore the interactive dashboard: [Insert Tableau Public URL here].
+Explore the interactive dashboard: [[Dashboard](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes)].
 
 ## Key Insights
 
@@ -60,6 +60,6 @@ A portfolio project showcasing data preprocessing, advanced visualization, and M
 
 ## Contact
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Portfolio**: [Optional Site URL]
+- **Email**: [biyaniprasang@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/prasangbiyani/]
+- **Portfolio**: [https://medium.com/@biyaniprasang]
