@@ -45,7 +45,7 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 
 ## Live Demo
 
-Explore the interactive dashboard: [![Tableau](https://img.icons8.com/?size=50&id=9Kvi1p1F0tUo&format=png&color=000000)](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes).
+Explore the interactive dashboard: [![Tableau](https://img.icons8.com/?size=25&id=9Kvi1p1F0tUo&format=png&color=000000)](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes).
 
 ## Key Insights
 
