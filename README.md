@@ -64,4 +64,4 @@ A portfolio project showcasing data preprocessing, advanced visualization, and M
 
 - **Email**: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:biyaniprasang@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasangbiyani/)
-- **Portfolio**: [![Medium](https://img.icons8.com/?size=100&id=BzFWSIqh6bCr&format=png&color=000000)](https://medium.com/@biyaniprasang)
+- **Portfolio**: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biyaniprasang)
