@@ -45,7 +45,7 @@ This project transforms raw MovieLens 1M data into a dynamic Tableau dashboard, 
 
 ## Live Demo
 
-Explore the interactive dashboard: [![Tableau](https://img.icons8.com/?size=25&id=9Kvi1p1F0tUo&format=png&color=000000)](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes).
+Explore the interactive dashboard: [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/prasang.biyani/viz/movies_recommendation/Dashboard1?publish=yes).
 
 ## Key Insights
 
@@ -64,4 +64,4 @@ A portfolio project showcasing data preprocessing, advanced visualization, and M
 
 - **Email**: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:biyaniprasang@gmail.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasangbiyani/)
-- **Portfolio**: [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@biyaniprasang)
+- **Medium**: [![Medium](https://img.icons8.com/?size=15&id=BzFWSIqh6bCr&format=png&color=000000)](https://medium.com/@biyaniprasang)
